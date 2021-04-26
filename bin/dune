@@ -1,0 +1,4 @@
+(executable
+ (public_name rasterizer)
+ (name main)
+ (libraries rasterizer))
